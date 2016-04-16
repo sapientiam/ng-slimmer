@@ -1,0 +1,33 @@
+{
+  "name": "ng-compressor",
+  "description": "sass and js compressor for angular",
+  "main": "index.js",
+  "authors": [
+    "Raffaele Mori <mori.raffaele@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angular",
+    "web",
+    "grunt"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.2",
+    "jquery": "^2.2.2",
+    "underscore": "^1.8.3",
+    "angular-route": "^1.5.2",
+    "angular-animate": "^1.5.2",
+    "angular-ui-router": "^0.2.18",
+    "bootstrap-sass-only": "^3.4.4",
+    "angular-bootstrap": "^1.2.4"
+  }
+}
